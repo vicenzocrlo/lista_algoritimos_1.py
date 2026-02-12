@@ -2,11 +2,11 @@
 ## Estes desafios consistem em exercícios de fixação dos aprendizados dados nas aulas de algoritimos
 ## Os tópicos dos desafios foram:
 
-### 1. Salario
+### 1. Salário
 
 Crie um programa que leia o nome e o salário de um funcionário, mostrando no final uma mensagem.
 
-### 2. Media
+### 2. Média
 
 Faça um programa que leia as duas notas de um aluno em uma matéria e mostre na tela a sua média na disciplina.
 
