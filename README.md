@@ -1,6 +1,12 @@
-# Primeira lista de exercícios de python das aulas de algoritimos
-## Estes desafios consistem em exercícios de fixação dos aprendizados dados nas aulas de algoritimos
-## Os tópicos dos desafios foram:
+#  Lista de exercícios de python das aulas de algoritimos
+ Estes desafios consistem em exercícios de fixação dos aprendizados dados nas aulas de algoritimos, abordando os temas de Comandos Básicos de Entrada, Saída e Operadores Aritméticos.
+ 
+- Funcionamento da **entrada** e **saída** de dados em Python.
+- Utilização do **input** para receber dados do usuário.
+- Exibição de informações na tela com **print**.
+- **Operadores aritméticos** e como utilizá-los.
+
+ ## Os tópicos dos desafios foram:
 
 ### 1. Salário
 
